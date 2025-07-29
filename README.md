@@ -86,7 +86,7 @@ Follow these steps to set up and run the Email Spam Detector! 🚀
 
 ## 👤 Author
 
-**Mohamed Teba**  
+- **Mohamed Teba**  
 
 ---
 

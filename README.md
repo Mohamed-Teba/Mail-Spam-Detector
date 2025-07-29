@@ -86,9 +86,7 @@ Follow these steps to set up and run the Email Spam Detector! 🚀
 
 ## 👤 Author
 
-**Mohamed Ibrahim Hussein Hussein Teba**  
-🆔 ID: 2305026  
-🏫 Faculty of Computer and Data Science, Alexandria University  
+**Mohamed Teba**  
 
 ---
 
@@ -101,7 +99,7 @@ Follow these steps to set up and run the Email Spam Detector! 🚀
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 

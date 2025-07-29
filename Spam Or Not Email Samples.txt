@@ -1,0 +1,29 @@
+Spam Email:
+-----------
+Hi there,
+
+You’re just one click away from unlocking an amazing offer! Get 50% off on all products today only! Don’t wait – click the link to claim your discount.
+
+[Claim Your Offer Now]
+
+Regards,
+Special Offers Team
+
+
+
+Not Spam:
+---------
+Dear Mr. Smith,
+
+I hope this email finds you well. Please find attached the invoice for March. The total due is $450, and the payment is due by the 15th of April.
+
+Feel free to contact me if you have any questions.
+
+Best regards,
+Emily
+Finance Department
+
+
+
+
+
